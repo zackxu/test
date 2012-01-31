@@ -1,0 +1,12 @@
+line 1) This is the file to be modified by both clones.
+line 2) (blank)
+line 3) (blank)
+<<<<<<< HEAD
+line 4_1) This is added by clone1;
+line 5_1) This is added by clone1;
+line 6_1) This is added by clone1.
+=======
+line 4_2) Clone2 added this line;
+line 5_2) Clone2 added this line;
+line 6_2) Clone2 added this line.
+>>>>>>> 15ea139c001b4b5a19ba3419a11c8387a82c0a28
