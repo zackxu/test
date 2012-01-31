@@ -1,9 +1,17 @@
 line 1) This is common.
 line 2) This is common.
 line 3) This is common.
+<<<<<<< HEAD
 line 4_2) This is by clone2;
 line 5_2) This is by clone2;
 line 6_2) This is by clone2.
 line 7) This is common;
 line 8_2) This is by clone2;
+=======
+line 4_1) This is by clone1;
+line 5_1) This is by clone1;
+line 6_1) This is by clone1.
+line 7) This is common;
+line 8_1) This is by clone1;
+>>>>>>> 4f43f3289ae496d357bb00c5be48e60c3a8d4f82
 line 9) This is common.
